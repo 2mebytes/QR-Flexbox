@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/2mebytes/QR-Flexbox)
-- Live Site URL: [Add live site URL here](https://2mebytes.github.io/QR-Flexbox/)
+- Solution URL: [https://github.com/2mebytes/QR-Flexbox](https://github.com/2mebytes/QR-Flexbox)
+- Live Site URL: [https://2mebytes.github.io/QR-Flexbox/](https://2mebytes.github.io/QR-Flexbox/)
 
 ## My process
 
